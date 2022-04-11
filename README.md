@@ -2,11 +2,11 @@
 
 [Gistmerchant.com](https://gistmerchant.com)
 
-#Gistmerchant News Website
+# Gistmerchant News Website
 <br/>  
   
 
-####About Gistmerchant 
+#### About Gistmerchant 
 > Gistmerchant is a firm that solelly renders news services, news provided are reviewed before being posted. Writers can sign up and post their own news and at the end of the day they get paid for it.
 <br/>  
   
