@@ -1,5 +1,4 @@
-[![Gistmerchant Logo](./gistmerchant-w-w-288dpi.png)(https://gistmerchant.com)]
-Format: ![gistmerchant_logo](https://gistmerchant.com/assets/img/1x/gistmerchant-nw-r-1x.png)
+![Gistmerchant Logo](./gistmerchant-w-w-288dpi.png)(https://gistmerchant.com)
 
 [Visit website:](https://gistmerchant.com)
 
