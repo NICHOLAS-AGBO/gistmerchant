@@ -1,5 +1,5 @@
 <div align="center">
-	<img align="center" width="185" src="./gistmerchant-w-w-288dpi.png" alt="gistmerchant logo"/>
+	<img align="center" width="300" src="./gistmerchant-w-w-288dpi.png" alt="gistmerchant logo"/>
 </div>
 
 [Gistmerchant.com](https://gistmerchant.com)
